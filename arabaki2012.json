@@ -10,8 +10,8 @@
             "date" : "2012-04-28",
             "stages" : [
                 {
-                    "stage" : "michinoku",
-                    "stage_kanji" : "陸奥",
+                    "key" : "michinoku",
+                    "name" : "陸奥",
                     "lad" : 38.200964,
                     "lng" : 140.674398,
                     "artists" : [
@@ -26,8 +26,8 @@
                             "title" : "ARABAKI ROCK FEST.12 MICHINOKU PEACE SESSION ON SATURDAY" }
                     ]
                 }, {
-                    "stage" : "arahabaki",
-                    "stage_kanji" : "荒吐",
+                    "key" : "arahabaki",
+                    "name" : "荒吐",
                     "lad": 38.200744,
                     "lng": 40.670898,
                     "artists" : [
@@ -43,8 +43,8 @@
                         { "name" : "フラワーカンパニーズ", "start" : "2012-04-28 18:10:00", "end" : "2012-04-28 18:45:00" }
                     ]
                 }, {
-                    "stage" : "tsugaru",
-                    "stage_kanji" : "津軽",
+                    "key" : "tsugaru",
+                    "name" : "津軽",
                     "lad": 8.19846,
                     "lng": 40.671751,
                     "artists" : [
@@ -63,8 +63,8 @@
                             "start" : "2012-04-28 20:05:00", "end" : "2012-04-28 21:05:00" }
                     ]
                 }, {
-                    "stage": "hatahata",
-                    "stage_kanji" : "鰰",
+                    "key": "hatahata",
+                    "name" : "鰰",
                     "lad": 8.197455,
                     "lng": 40.668912,
                     "artists" : [
@@ -78,8 +78,8 @@
                         { "name" : "東京スカパラダイスオーケストラ", "start" : "2012-04-28 18:05:00", "end" : "2012-04-28 18:40:00" }
                     ]
                 }, {
-                    "stage": "hanagasa",
-                    "stage_kanji" : "花笠",
+                    "key": "hanagasa",
+                    "name" : "花笠",
                     "lad": 8.195074,
                     "lng": 40.667135,
                     "artists": [
@@ -99,8 +99,8 @@
                             "mazri" : true, "campfire" : true }
                     ]
                 }, {
-                    "stage" : "ban-etsu",
-                    "stage_kanji" : "磐越",
+                    "key" : "ban-etsu",
+                    "name" : "磐越",
                     "lad": 8.191927,
                     "lng": 40.664402,
                     "artists": [
@@ -120,8 +120,8 @@
             "date" : "2012-04-29",
             "stages" : [
                 {
-                    "stage" : "michinoku",
-                    "stage_kanji" : "陸奥",
+                    "key" : "michinoku",
+                    "name" : "陸奥",
                     "lad": 8.200964,
                     "lng": 40.674398,
                     "artists" : [
@@ -138,8 +138,8 @@
                         }
                     ]
                 }, {
-                    "stage" : "arahabaki",
-                    "stage_kanji" : "荒吐",
+                    "key" : "arahabaki",
+                    "name" : "荒吐",
                     "lad": 8.200744,
                     "lng": 40.670898,
                     "artists" : [
@@ -155,8 +155,8 @@
                         { "name" : "サンボマスター", "start" : "2012-04-29 18:50:00", "end" : "2012-04-29 19:25:00" }
                     ]
                 }, {
-                    "stage" : "tsugaru",
-                    "stage_kanji" : "津軽",
+                    "key" : "tsugaru",
+                    "name" : "津軽",
                     "lad": 8.19846,
                     "lng": 40.671751,
                     "artists" : [
@@ -171,8 +171,8 @@
                         { "name" : "神聖かまってちゃん vs B.B.クィーンズ", "start" : "2012-04-29 17:20:00", "end" : "2012-04-29 18:00:00" }
                     ]
                 }, {
-                    "stage": "hatahata",
-                    "stage_kanji" : "鰰",
+                    "key": "hatahata",
+                    "name" : "鰰",
                     "lad": 8.197455,
                     "lng": 40.668912,
                     "artists" : [
@@ -188,8 +188,8 @@
                             "start" : "2012-04-29 18:10:00", "end" : "2012-04-29 18:45:00", "guest" : "上田正樹" }
                     ]
                 }, {
-                    "stage": "hanagasa",
-                    "stage_kanji" : "花笠",
+                    "key": "hanagasa",
+                    "name" : "花笠",
                     "lad": 8.195074,
                     "lng": 40.667135,
                     "artists" : [
@@ -205,8 +205,8 @@
                         { "name" : "ランテルナムジカ", "start" : "2012-04-29 20:20:00", "end" : "2012-04-29 21:00:00", "mazri" : true }
                     ]
                 }, {
-                    "stage" : "ban-etsu",
-                    "stage_kanji" : "磐越",
+                    "key" : "ban-etsu",
+                    "name" : "磐越",
                     "lad": 8.191927,
                     "lng": 40.664402,
                     "artists" : [
